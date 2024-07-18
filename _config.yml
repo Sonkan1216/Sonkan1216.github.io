@@ -3,9 +3,10 @@ title: Sonkan Blog  
 SEOTitle: Sonkan's Blog   
 header-img: img/home-bg.jpg
 email: akanonsekuto1976@gmail.com
-description: " "
+description: "123"
 keyword: "Sonkan,Akanonsect"    
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://sonkan1216.github.io" # your host, for absolute URL
+
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
